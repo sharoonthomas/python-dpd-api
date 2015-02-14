@@ -10,10 +10,10 @@ Tests for `python-dpd-api` module.
 
 import unittest
 
-from python-dpd-api import python-dpd-api
+from dpd import DPD
 
 
-class TestPython-dpd-api(unittest.TestCase):
+class TestPythonDPD(unittest.TestCase):
 
     def setUp(self):
         pass
